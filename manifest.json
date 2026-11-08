@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "download_url": "https://github.com/deveplor/FilePilot/releases/download/v1.0/FilePilot.-.Copy.zip",
+  "sha256": "sha256:370a5f815e6ae7f72871c28ab575dc0891f9b68bf4535e861655ac9d2037d04b",
+  "signature": "154203521b2d25d125f9ac840116483e9fbd72b5f474a09cacf952593d9d321a",
+  "published_at": "2026-11-08 15:40",
+  "release_notes": [
+    "Initial public release of FilePilot v1.0",
+    "Added automatic background updater and rollback safety",
+    "Enabled instant directory scanning and toggleable sidebar"
+  ]
+}
