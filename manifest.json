@@ -1,9 +1,9 @@
 {
   "version": "1.5",
   "download_url": "https://github.com/deveplor/FilePilot/releases/download/v1.5/FilePilot.zip",
-  "sha256": "45122429604ca7ecf64808d815bc01af5bdde6fa355c22d7cbdc5f2751627832",
-  "signature": "865ae35d393b3a84c5c6d81ce4ab4affbf0a7078bc9fd758c7d4e04c35ca2e81",
-  "published_at": "2026-11-09 11:20",
+  "sha256": "ebd44f49e92047f8fef8e9c4d9b035c5f94783e9f9bfc6cba7d599c577feaaeb",
+  "signature": "77987ebb0f26f55a40391ed888994fb7a5fefa2cfa3d8727b80b79d025fcbd76",
+  "published_at": "2026-11-09 11:45",
   "release_notes": [
     "InfraredManager v1.5 release with custom branded application icon and system tray support",
     "High-contrast White mode (black text) and Deep Navy Blue mode (white text)",
