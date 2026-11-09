@@ -2,7 +2,7 @@
   "version": "1.5",
   "download_url": "https://github.com/deveplor/FilePilot/releases/download/v1.5/InfraredManager_Setup.exe",
   "sha256": "sha256:c4cadbb90074f7317400d49fec8db3d7e3cb6889b9e1cf0282ad99d396e54b71",
-  "signature": "154203521b2d25d125f9ac840116483e9fbd72b5f474a09cacf952593d9d321a",
+  "signature": "50632cc4dcbf0692fbfb1eb9af1a1e816805a79a83605ed59cecffb02a57f3b7",
   "published_at": "2026-11-09 11:20",
   "release_notes": [
     "InfraredManager v1.5 release with custom branded application icon and system tray support",
@@ -11,6 +11,6 @@
     "Name Change",
     "UI change",
     "Smart organization",
-    "Reduce lags"  
+    "Reduce lags"
   ]
 }
