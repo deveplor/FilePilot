@@ -1,15 +1,16 @@
 {
-  "version": "1.2",
-  "download_url": "https://github.com/deveplor/FilePilot/releases/download/v1.2/FilePilot.zip",
-  "sha256": "sha256:370a5f815e6ae7f72871c28ab575dc0891f9b68bf4535e861655ac9d2037d04b",
+  "version": "1.5",
+  "download_url": "https://github.com/deveplor/FilePilot/releases/download/v1.5/InfraredManager_Setup.exe",
+  "sha256": "sha256:c4cadbb90074f7317400d49fec8db3d7e3cb6889b9e1cf0282ad99d396e54b71",
   "signature": "154203521b2d25d125f9ac840116483e9fbd72b5f474a09cacf952593d9d321a",
-  "published_at": "2026-11-08 15:40",
+  "published_at": "2026-11-09 11:20",
   "release_notes": [
-    "FilePilot v1.2.0 release with custom branded application icon and system tray support",
+    "InfraredManager v1.5 release with custom branded application icon and system tray support",
     "High-contrast White mode (black text) and Deep Navy Blue mode (white text)",
     "Powerful Whole Computer Search across all mounted drives with wildcard and type filters",
-    "Native Windows Recycle Bin integration for safe, undoable file deletions",
-    "Lag-free directory navigation with smooth 60fps scrolling and lazy view rendering",
-    "Aligned Software Update Center with v1.2.0 status badge and changelog"
+    "Name Change"
+    "UI change"
+    "Smart organization"
+    "Reduce lags"  
   ]
 }
